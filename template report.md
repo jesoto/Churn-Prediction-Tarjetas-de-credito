@@ -14,4 +14,6 @@ no puede encontrar alguna contribución, pregúntese por qué el editor y los á
 el artículo).
 -  ¿Cuáles serían uno o dos próximos pasos valiosos y específicos para avanzar en esta pregunta?
 
+Pregunta 5
+Pregunta 6
 
