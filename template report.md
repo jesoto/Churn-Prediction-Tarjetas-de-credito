@@ -17,5 +17,5 @@ el artículo).
 Pregunta 5
 Pregunta 6
 
-
-Kiara Hugo
+Pregunta 7 
+Pregunta 8
