@@ -18,3 +18,5 @@ Pregunta 5
 Pregunta 6
 Pregunta 7 
 Pregunta 8
+Pregunta 9
+Pregunta 10 
